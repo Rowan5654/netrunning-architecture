@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/netrunning-architecture/static/css/main.073c9b0a.css",
+    "main.js": "/netrunning-architecture/static/js/main.c237a602.js",
+    "static/js/787.916fd7b8.chunk.js": "/netrunning-architecture/static/js/787.916fd7b8.chunk.js",
+    "static/media/logo.svg": "/netrunning-architecture/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/netrunning-architecture/index.html",
+    "main.073c9b0a.css.map": "/netrunning-architecture/static/css/main.073c9b0a.css.map",
+    "main.c237a602.js.map": "/netrunning-architecture/static/js/main.c237a602.js.map",
+    "787.916fd7b8.chunk.js.map": "/netrunning-architecture/static/js/787.916fd7b8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.c237a602.js"
+  ]
+}
